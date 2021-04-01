@@ -1,0 +1,30 @@
+---
+title: "Shiny_project_instruction"
+author: "ThuyLe"
+date: "4/1/2021"
+output:
+  ioslides_presentation: default
+  slidy_presentation: default
+---
+
+
+## Summary
+
+This shiny app is used to illustrate the job status of alumni from VNUK. The apps is deployed on shiny serve where the link is https://thuyle.shinyapps.io/Assignment_Shiny_Application/. The code can be found at https://github.com/thuyle304/Peer-graded-Assignment-Course-Peer-graded-Assignment-Shiny-Application-and-Reproducible-Pitch/tree/master
+
+##  First step
+
+You choose the major from the drop down box. There are two options: IBM (international business management) and CSE ( computer science engineering)
+
+## The second step
+
+The results are shown in table and graph
+
+## The table 
+
+The table has two column. The first one shows the job status. The second one has the number of alumni in that status accordingly. 
+
+## The graph
+
+The graph illustrates the information in the table with x axis which is job status and y axis which is the number of alumni 
+
